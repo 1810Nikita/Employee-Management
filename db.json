@@ -1,0 +1,88 @@
+{
+  "emplist": [
+    {
+      "empid": "1",
+      "name": "nik",
+      "contact": "3455",
+      "email": "gghhjh",
+      "gender": "male",
+      "skills": [
+        {
+          "skill": "gg",
+          "experience": "fresher"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "empid": "ggh",
+      "name": "hh",
+      "contact": "ghh",
+      "email": "hhh",
+      "gender": "male",
+      "skills": [
+        {
+          "skill": "hh",
+          "experience": "1 year"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "empid": "12",
+      "name": "",
+      "contact": "",
+      "email": "",
+      "gender": "",
+      "skills": [
+        {
+          "skill": "",
+          "experience": ""
+        }
+      ],
+      "id": 4
+    },
+    {
+      "empid": "12",
+      "name": "",
+      "contact": "",
+      "email": "",
+      "gender": "",
+      "skills": [
+        {
+          "skill": "",
+          "experience": ""
+        }
+      ],
+      "id": 5
+    },
+    {
+      "empid": "1",
+      "name": "ram",
+      "contact": "4567890",
+      "email": "nikli",
+      "gender": "male",
+      "skills": [
+        {
+          "skill": "python",
+          "experience": "2 year"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "empid": "1",
+      "name": "",
+      "contact": "",
+      "email": "",
+      "gender": "",
+      "skills": [
+        {
+          "skill": "",
+          "experience": ""
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
